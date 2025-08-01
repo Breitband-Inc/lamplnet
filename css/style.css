@@ -1677,3 +1677,16 @@ figure.dotted-bg {
       .site-footer .social li a:hover {
         background: #36a1ff;
         color: #ffffff; }
+
+.home-btn {
+  color: black;
+  background-color: #00b9ae;
+  padding: 5px;
+  border: 2px solid black
+}
+
+.home-btn:hover {
+  background-color: #037171;
+  color: white;
+  border-color: white;
+}
