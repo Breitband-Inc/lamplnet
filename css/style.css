@@ -1755,3 +1755,15 @@ ul.uebersicht li {
   font-size: large;
   font-weight: bold;
 }
+
+.td-align-left {
+  text-align: left !important;
+}
+
+.td-align-right {
+  text-align: right !important;
+}
+
+.td-align-center {
+  text-align: center !important;
+}
